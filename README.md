@@ -23,9 +23,9 @@ The *Smart Traffic Light* is a rudimentary arduino workshop designed to demonstr
     
 ## Contents
 
-* '''StreetLight2.ino''' - Initial traffic light code
-* '''smartTrafficLight.ino''' - Smart traffic light code with Ultrasonic Sensor and Buzzer integration
-* '''Aspire Smart Intersection PPT.pptx''' - accompanying powerpoint slide with step by step instructions and discussion questions
+* ```StreetLight2.ino``` - Initial traffic light code
+* ```smartTrafficLight.ino``` - Smart traffic light code with Ultrasonic Sensor and Buzzer integration
+* ```Aspire Smart Intersection PPT.pptx``` - accompanying powerpoint slide with step by step instructions and discussion questions
 
 ** Material Requirements
 
